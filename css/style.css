@@ -143,7 +143,14 @@ nodec {
     color: white;
 }
 
-text-muted:hover {
-    background-color:black !important;
-    color: #bbbbbb;
+.social-icon{
+ color: black;   
+}
+
+.social-icon:hover{
+ color: #666;
+}
+
+.carousel .carousel-item {
+    max-height: 500px !important;
 }
