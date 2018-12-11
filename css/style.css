@@ -154,3 +154,8 @@ nodec {
 .carousel .carousel-item {
     max-height: 500px !important;
 }
+
+h2{
+    font-family: gotham,'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+    font-weight: bold;
+}
